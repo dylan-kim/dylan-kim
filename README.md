@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dylan-kim
-- 👀 I’m interested in backend: distributed system and graph database
-- 🌱 I’m currently a student in final year doing an internship
+- ✨ Mostly interested in backend engineering 
 
 <!---
 dylan-kim/dylan-kim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
